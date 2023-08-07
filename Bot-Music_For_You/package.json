@@ -1,0 +1,16 @@
+{
+  "name": "bot-music_for_you",
+  "version": "1.0.0",
+  "description": "bot",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Liliane A Cruz de Souza",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "dotenv": "^16.3.1"
+  }
+}
